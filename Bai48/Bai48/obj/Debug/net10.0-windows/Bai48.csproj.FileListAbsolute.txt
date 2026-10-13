@@ -1,0 +1,17 @@
+D:\Code\Bai48\Bai48\bin\Debug\net10.0-windows\Bai48.exe
+D:\Code\Bai48\Bai48\bin\Debug\net10.0-windows\Bai48.deps.json
+D:\Code\Bai48\Bai48\bin\Debug\net10.0-windows\Bai48.runtimeconfig.json
+D:\Code\Bai48\Bai48\bin\Debug\net10.0-windows\Bai48.dll
+D:\Code\Bai48\Bai48\bin\Debug\net10.0-windows\Bai48.pdb
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.Form1.resources
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.csproj.GenerateResource.cache
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.AssemblyInfoInputs.cache
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.AssemblyInfo.cs
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.csproj.CoreCompileInputs.cache
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.dll
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\refint\Bai48.dll
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.pdb
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.genruntimeconfig.cache
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\ref\Bai48.dll
+D:\Code\Bai48\Bai48\obj\Debug\net10.0-windows\Bai48.csproj.Up2Date
